@@ -1,7 +1,6 @@
 ---
 title: "CodeBook: Getting and Cleaning Data"
 author: "Jim v.M."
-date: "February 22, 2015"
 output: html_document
 ---
 
