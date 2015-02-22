@@ -23,11 +23,11 @@ The following study design is a *paraphrased* version of the one in the referenc
 "These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions. 
 
-Reference: [www.smartlab.ws URL to original datafiles, ReadMe & variable information]("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip") 
+Reference: [URL to Smartlab's original datafiles, ReadMe & variable information]("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip") 
 
 # Raw Data
 
-The raw data files are taken from:  [www.smartlab.ws]("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"). The merged raw data contains 10299 observations on 563 variables in total.
+The raw data files are taken from:  [this url]("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"). The merged raw data contains 10299 observations on 563 variables in total.
 
 # Tidying the Raw Data
 
