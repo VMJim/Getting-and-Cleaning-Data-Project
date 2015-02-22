@@ -27,7 +27,7 @@ Reference: [URL to Smartlab's original datafiles, ReadMe & variable information]
 
 # Raw Data
 
-The raw data files are taken from:  [this url]("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"). The merged raw data contains 10299 observations on 563 variables in total.
+The raw data files are taken from: [this url]("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"). The merged raw data contains 10299 observations on 563 variables in total.
 
 # Tidying the Raw Data
 
